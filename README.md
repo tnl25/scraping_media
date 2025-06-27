@@ -83,3 +83,5 @@ print(data_cleaned)
 # if you want to save to the dist folder, it must exist first
 instagram.save()
 ```
+
+This is originally from https://github.com/luciomorocarnero/scraping_media
