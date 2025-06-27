@@ -1,0 +1,24 @@
+{
+    "gral":{
+        "log_level": "INFO",
+        "headless": true,
+        "dist_clear": false ,
+        "img_scrape_sleep_s": 1
+    },
+    "youtube": {
+        "max_posts": 10
+    },
+    "x": {
+        "time_ms": 6000,
+        "max_posts": 10
+
+    },
+    "tiktok": {
+        "time_ms": 2000,
+        "max_posts": 5
+    },
+    "instagram": {
+        "time_ms": 6000,
+        "max_posts": 20
+    }
+}
